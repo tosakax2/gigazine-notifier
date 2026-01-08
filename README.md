@@ -1,4 +1,4 @@
-# Gigazine to Discord Bot
+# Gigazine Notifier
 
 GigazineのRSSフィードを自動取得し、新着記事をDiscordに投稿するBot。
 
